@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "WeAfrica Black",
+    "description": "Luxury rides for premium customers",
+    "capacity": 3,
+    "baseFare": 50,
+    "costPerKm": 12,
+    "costPerMin": 3,
+    "icon": "/icons/weafricablack.jpg"
+  },
+  {
+    "id": 2,
+    "name": "WeAfrica X",
+    "description": "Affordable and reliable everyday rides",
+    "capacity": 4,
+    "baseFare": 30,
+    "costPerKm": 8,
+    "costPerMin": 2,
+    "icon": "/icons/weafricaX.webp"
+  },
+  {
+    "id": 3,
+    "name": "WeAfrica XL",
+    "description": "Extra-space rides for groups",
+    "capacity": 6,
+    "baseFare": 60,
+    "costPerKm": 15,
+    "costPerMin": 4,
+    "icon": "/icons/weafricaXL.jpg"
+  },
+  {
+    "id": 4,
+    "name": "WeAfrica Shuttle",
+    "description": "Airport shuttle & long-distance rides",
+    "capacity": 10,
+    "baseFare": 80,
+    "costPerKm": 18,
+    "costPerMin": 5,
+    "icon": "/icons/weafricashuttle.jpg"
+  },
+  {
+    "id": 5,
+    "name": "WeAfrica Van",
+    "description": "Cargo van for deliveries and business",
+    "capacity": 2,
+    "baseFare": 70,
+    "costPerKm": 20,
+    "costPerMin": 4,
+    "icon": "/icons/weafricaVan.jpeg"
+  }
+]
+
